@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 132fdb97f011e7347aca761bd041e9b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 3216191580907926367, guid: 5d9665f74bdf71945be2a1f1e064f49b, type: 3}
+  - spriteCranberry: {instanceID: 0}
+  - soundnoise: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
